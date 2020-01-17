@@ -16,6 +16,7 @@ public class ExampleFriday {
      */
     public static void main(String[] args) {
         System.out.println("learning GitHub");
+        System.out.println("Han Thao Nguyen");
     }
     
 }
